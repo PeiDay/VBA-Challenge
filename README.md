@@ -1,4 +1,4 @@
-# Project: The VBA of Wall Street
+# VBA of Wall Street
 
 ## Goal
 
